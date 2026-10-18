@@ -1,0 +1,5 @@
+// xzdos-unified-webapp - Sovereign ZDOS Enclave
+module xzdos-unified-webapp {
+    verify_zero_legacy();
+    connect_dsn_mesh();
+}
